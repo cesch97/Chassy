@@ -1,0 +1,9 @@
+name: Chassy
+channels:
+  - defaults
+dependencies:
+  - pyqt
+  - matplotlib
+  - ipykernel
+  - python=3.7
+prefix: /home/fabio/miniconda3/envs/Chassy
